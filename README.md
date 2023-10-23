@@ -3,7 +3,7 @@
 # Matricula: A01721612
 # Carrera: IRS
 # Semestre: 5o
-## Practica de Github
+## Practica de Github y Paint
 
 
 **Bold Semana Tec 12**
