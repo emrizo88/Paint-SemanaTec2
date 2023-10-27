@@ -117,5 +117,10 @@ done()
 | -------- | -------- |
 | Emilio | Dibujar algo |
 
+
 - [x] Emilio Dibujar cuadrado rojo
 - [ ] Erick Dibujar un rectangulo
+
+- [x] Emilio Dibujar azul
+- [x] Erick dibujar un rectangulo azul
+
