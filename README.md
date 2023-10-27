@@ -4,6 +4,7 @@
 # Carrera: IRS
 # Semestre: 5o
 ## Practica de Github y Paint
+# Saludos desde el tutorial.
 
 
 **Bold Semana Tec 12**
@@ -116,5 +117,10 @@ done()
 | -------- | -------- |
 | Emilio | Dibujar algo |
 
+
+- [x] Emilio Dibujar cuadrado rojo
+- [ ] Erick Dibujar un rectangulo
+
 - [x] Emilio Dibujar azul
 - [x] Erick dibujar un rectangulo azul
+
