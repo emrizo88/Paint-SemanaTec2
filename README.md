@@ -4,6 +4,7 @@
 # Carrera: IRS
 # Semestre: 5o
 ## Practica de Github y Paint
+# Saludos desde el tutorial.
 
 
 **Bold Semana Tec 12**
